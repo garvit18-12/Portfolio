@@ -1,7 +1,7 @@
 {
   "name": "portfolio_website_fcc-master",
   "version": "1.0.0",
-  "description": "",
+  "description": "HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website ======= ![Peek 2022-01-24 11-06](https://user-images.githubusercontent.com/11813341/150726892-d47d1860-b157-4453-aab0-860b1328b25c.gif)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/garvit18-12/Portfolio/issues"
   },
-  "homepage": "https://github.com/garvit18-12/Portfolio#readme"
+  "homepage": "https://github.com/garvit18-12/Portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
